@@ -15,7 +15,7 @@ Build MVVM App for Android and IOS with Flutter。
 
 ### ScreenShot
 
-![](screenshot.png)
+<img src="screenshot.png" width = 30% height = 30% />
 
 #### LICENSE
 
